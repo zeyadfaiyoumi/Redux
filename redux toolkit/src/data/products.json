@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "watch",
+    "price": 10,
+    "image": "https://www.e-marketips.com/wp-content/uploads/2020/05/product-image.webp"
+  },
+  {
+    "id": 2,
+    "name": "watch",
+    "price": 15,
+    "image": "https://www.ultrasawt.com/sites/default/files/styles/img404x291/public/%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%20%D8%BA%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A.jpg?itok=im6f5ek9"
+  },
+  {
+    "id": 3,
+    "name": "earphone",
+    "price": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtbNqYoHp1NWFzU22fdAkdKXMlrqqp7FBReovUi3uFAaRhGcRVg5uBbOSGpIeI_NJs3c&usqp=CAU"
+  }
+]
